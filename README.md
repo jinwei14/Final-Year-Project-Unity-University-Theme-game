@@ -1,5 +1,5 @@
 # Final-Year-Project-Unity-University-Theme-game
-全是script，游戏写的真的太烂
+Mobile version will come up in the summer 
 
 # Main menu
 <img width="1674" alt="screen shot 2018-04-11 at 20 28 32" src="https://user-images.githubusercontent.com/26280459/39084945-7bb4af72-4574-11e8-85c4-0f148b416832.png">
