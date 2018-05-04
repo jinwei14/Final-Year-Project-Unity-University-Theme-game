@@ -6,7 +6,7 @@ This version was finished in 1 week. Mobile version and WebGL version will come 
 ## Main menu
 <img width="1674" alt="screen shot 2018-04-11 at 20 28 32" src="https://user-images.githubusercontent.com/26280459/39084945-7bb4af72-4574-11e8-85c4-0f148b416832.png">
 
-* customize menu
+## customize menu
 <img width="1674" alt="screen shot 2018-04-11 at 20 28 46" src="https://user-images.githubusercontent.com/26280459/39084943-7ba0a22a-4574-11e8-8bed-8526c8008e1a.png">
 
 ## Main Scene (whole view)
