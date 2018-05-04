@@ -23,3 +23,5 @@ Mobile version and WebGL version will come up in the summer
 ## Mapbox sdk combined with GPS
 <img width="445" alt="screen shot 2018-02-22 at 12 56 49" src="https://user-images.githubusercontent.com/26280459/39085069-a99a2f60-4575-11e8-971a-744af855fe97.png">
 This mapbox SDK has been used in this project. By using map box can easily implement the GPS onto the game however the collision detection is hard to achieve.
+
+now it is time to play https://jinwei14.itch.io/university-adventure-game
