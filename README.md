@@ -1,6 +1,7 @@
 # Final-Year-Project-Unity-University-Theme-game
 
-Summer goal: 
+future goal: 
+
 1.try to firstly adding some other function to the game.
 saving data, shopping etc
 
