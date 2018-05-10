@@ -1,4 +1,14 @@
 # Final-Year-Project-Unity-University-Theme-game
+
+Summer goal: 
+1.try to firstly adding some other function to the game.
+saving data, shopping etc
+
+2.try to all multi online player to this game
+
+3.polish the game by adding more animation.
+
+
 There is a student called JA (can be customised in the menu) at the University of Liverpool who works very hard. However, he is very tired and stressful of the essays and course works. Even he works so hard, sometimes he cannot even find a job or an internship. He realised the fact that he still need to make some effort in but he is too tired. One day, he was revising his final exam, as times went by, he became more and more sleepy. Finally, he fell asleep on the desk with a pencil holding on his hand. In the world of his dream, he found himself on University campus and become a hero holding a gun with countable bullets. Suddenly, many of enemies called “homework” crowded in. There was not enough space for the hero to run so that the hero decides to use his gun and fight them all instead of running away. After destroying all the enemy, the boss came into the battlefield with a fully loaded weapon. Although the hero was tired and with low health point, he still needs to fight back to survive himself. After a fierce battle, the hero won. A while later, JA opened his eyes and found everything just happened was just a dream. 
 
 This version was finished in 1 week. Mobile version and WebGL version will come up in the summer 
