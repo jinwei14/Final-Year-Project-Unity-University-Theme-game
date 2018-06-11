@@ -14,7 +14,7 @@ saving data, shopping etc
 5.using machine learning to train the AI entity make prediction of the user's next moment location.
 
 
-This project got a really bad result for not matching the initially goal and intension. So that I decided to polish the game during summer.  
+This project got a really bad result for not matching the initially goal and intension. Bad people and bad thing are happenging evey single day.Something you can not avoid it, accepted it and keep pushing yourself. Sometime you just need a little courge in yourself and keep moving on.
 
 This version was finished in 1 week. Mobile version and WebGL version will come up in the summer 
 
